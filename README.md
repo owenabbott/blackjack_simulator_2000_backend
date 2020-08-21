@@ -1,24 +1,19 @@
 # README
+Pixel playing cards made by Yaoman on itch.io
+https://yaomon.itch.io/playing-cards
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Neon mode playing cards made by mapsandapps on itch.io
+https://mapsandapps.itch.io/synthwave-playing-card-deck-assets
 
-Things you may want to cover:
+demo font MatchupPro by somepx on itch.io
+https://somepx.itch.io/humble-fonts-free
 
-* Ruby version
+Normal mode music: 8 Bit Menu (By David Renda), Royalty free music from https://www.fesliyanstudios.com
 
-* System dependencies
+Neon mode music: A Sad Touch (by Arachno), from modarchive.org
 
-* Configuration
+General interface assets purchased from www.gamedevmarket.net
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Features:
+Player can play basic blackjack. 
+House does not allow splitting.

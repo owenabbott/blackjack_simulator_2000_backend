@@ -9,7 +9,9 @@ class UsersController < ApplicationController
         puts users[2].bank_account
         puts "#####################################################################################################################"
 
-        users = users[0...10]
+        if User.all.length >= 10
+            users = users[0...10]
+        end
 
         render json: users
     end
